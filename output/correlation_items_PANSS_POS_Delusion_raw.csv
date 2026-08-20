@@ -1,0 +1,58 @@
+Variable,r,p_value,N,Significant
+Pensieri generati da altri,0.23,0.1042,51,False
+Parole lette da qualcun altro,0.111,0.4381,51,False
+Pensieri non propri,0.358,0.0098,51,True
+Pensieri come scritti,-0.071,0.6191,51,False
+Pensieri percepiti come rumorosi,0.035,0.8068,51,False
+Pensieri ripetuti o echeggianti,0.273,0.0525,51,False
+Vedere i propri pensieri,-0.102,0.4771,51,False
+Vita attuale scollegata dal futuro,0.198,0.163,51,False
+Perdita di identità,0.126,0.3776,51,False
+Vera identità scomparsa,0.379,0.006,51,True
+Perdita di contatto con se stessi,0.035,0.8058,51,False
+Distanza da se stessi,0.162,0.2567,51,False
+Perdita totale di sé,-0.038,0.7934,51,False
+Ricerca di identità tramite oggetti,0.101,0.4799,51,False
+Vivere in un altro mondo,0.121,0.3974,51,False
+Paura di perdersi,-0.043,0.7623,51,False
+Estraneità a se stessi,0.114,0.4249,51,False
+Perdita di connessione col mondo,-0.044,0.7611,51,False
+Scarsa presenza nel mondo,-0.001,0.9922,51,False
+Non essere più la stessa persona,0.132,0.355,51,False
+Vuoto interiore,0.058,0.6882,51,False
+Pensare a se stessi come un'altra persona,0.176,0.2161,51,False
+Disconnessione da sé e dai propri pensieri,-0.016,0.9121,51,False
+Svanire dall'esistenza,-0.161,0.2576,51,False
+Assorbimento nell'introspezione,0.091,0.5238,51,False
+Sensazione di non essere l'autore delle proprie azioni,0.21,0.1384,51,False
+Sensazione di stare cambiando,0.111,0.4385,51,False
+Appiattimento emotivo,0.222,0.1171,51,False
+Alterazione del significato del mondo,0.129,0.3669,51,False
+Dubbio tra provare e immaginare,0.228,0.1071,51,False
+Dubbio tra dire e pensare,0.201,0.1567,51,False
+Alterazione della percezione del tempo,0.083,0.5647,51,False
+"Tempo che accelera, rallenta o si ferma",0.014,0.9209,51,False
+Amnesia di azioni compiute,0.319,0.0225,51,True
+Disallineamento tra espressione e vissuto interno,-0.014,0.9247,51,False
+Guardarsi dall'esterno,0.061,0.6719,51,False
+Guardarsi da fuori dal corpo,0.079,0.5815,51,False
+Età percepita alterata,0.005,0.973,51,False
+Corpo percepito come cambiato,0.119,0.4064,51,False
+Arti percepiti come non propri,0.117,0.4118,51,False
+Perdita di controllo del corpo,0.057,0.6896,51,False
+Controllo allo specchio,0.04,0.7811,51,False
+Sensazioni elettriche nel corpo,-0.016,0.9131,51,False
+Sensazioni termiche senza causa,0.15,0.2924,51,False
+Dolore ai rumori,0.107,0.4534,51,False
+Gambe che si piegano da ferme,0.159,0.2644,51,False
+Incapacità di controllare il corpo,0.103,0.4736,51,False
+Impossibilità di muoversi,0.033,0.8207,51,False
+Debolezza improvvisa di un arto,0.002,0.9889,51,False
+Movimento percepito per imitazione,0.104,0.4669,51,False
+Osservatore passivo del mondo,0.139,0.3293,51,False
+Scomparsa della barriera tra sé e il mondo,0.121,0.3969,51,False
+Dubbio sulla propria esistenza,0.136,0.3424,51,False
+Mancanza di idee proprie,0.056,0.6983,51,False
+Non far parte del mondo,-0.139,0.3321,51,False
+Sentirsi come un fantasma,0.073,0.6086,51,False
+Evitamento per mancanza di opinioni,0.179,0.2081,51,False

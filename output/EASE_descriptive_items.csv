@@ -1,0 +1,58 @@
+,mean,median,std,min,max,domain
+Depersonalizzazione somatica,0.6252821670428894,1.0,0.4845972338191351,0.0,1.0,Esperienze corporee
+Esperienza mimetica/risonanza del movimento,0.582392776523702,1.0,0.49372227262058976,0.0,1.0,Esperienze corporee
+Cambiamento in relazione al genere,0.5372460496613995,1.0,0.499174522615565,0.0,1.0,Consapevolezza del Sé e Presenza
+Scissione dell'Io,0.5124153498871332,1.0,0.5004109523299942,0.0,1.0,Consapevolezza del Sé e Presenza
+Disintegrazione corporea,0.4604966139954853,0.0,0.499000563898794,0.0,1.0,Esperienze corporee
+Cambiamento morfologico,0.41309255079006774,0.0,0.4929458571808922,0.0,1.0,Esperienze corporee
+Derealizzazione,0.3837471783295711,0.0,0.4868473231179237,0.0,1.0,Consapevolezza del Sé e Presenza
+Idee magiche,0.32505643340857787,0.0,0.46892549164826536,0.0,1.0,Riorientamento Esistenziale
+Depersonalizzazione dissociativa,0.3182844243792325,0.0,0.4663371669820962,0.0,1.0,Consapevolezza del Sé e Presenza
+Fenomeni primari di autoriferimento,0.3160270880361174,0.0,0.46544924942410765,0.0,1.0,Riorientamento Esistenziale
+Spazializzazione dell'esperienza,0.3115124153498871,0.0,0.463635268477094,0.0,1.0,Cognitività e flusso della coscienza
+Eco silente del pensiero,0.2866817155756208,0.0,0.4527228386127378,0.0,1.0,Cognitività e flusso della coscienza
+Incapacità di discriminare tra i modi dell'intenzionalità,0.20993227990970656,0.0,0.40772045356382663,0.0,1.0,Cognitività e flusso della coscienza
+Discordanza psicofisica,0.1963882618510158,0.0,0.39771468552672734,0.0,1.0,Esperienze corporee
+Altri stati di depersonalizzazione,0.17607223476297967,0.0,0.3813122308486423,0.0,1.0,Consapevolezza del Sé e Presenza
+Stato d'animo di passività,0.14221218961625282,0.0,0.34966251361239414,0.0,1.0,Demarcazione/Transitivismo
+Il proprio campo esperienziale come unica realtà,0.13769751693002258,0.0,0.34497180508852837,0.0,1.0,Riorientamento Esistenziale
+Distorta prospettiva in prima persona,0.13544018058690746,0.0,0.3425800073833714,0.0,1.0,Consapevolezza del Sé e Presenza
+Discontinuità del proprio agire,0.12641083521444696,0.0,0.3326875112681955,0.0,1.0,Cognitività e flusso della coscienza
+Ruminazioni-ossessioni,0.11963882618510158,0.0,0.32490563270482853,0.0,1.0,Cognitività e flusso della coscienza
+Disturbi motori,0.11738148984198646,0.0,0.32223822210174835,0.0,1.0,Esperienze corporee
+Perdita dell'ipseità del pensiero,0.11060948081264109,0.0,0.314002534215285,0.0,1.0,Cognitività e flusso della coscienza
+Confusione dell'identità,0.11060948081264109,0.0,0.314002534215285,0.0,1.0,Consapevolezza del Sé e Presenza
+Cambiamento in relazione all'età,0.10158013544018059,0.0,0.302436912030183,0.0,1.0,Consapevolezza del Sé e Presenza
+Pressione del pensiero,0.08803611738148984,0.0,0.283667765894392,0.0,1.0,Cognitività e flusso della coscienza
+Discordanza tra intenzione ed espressione,0.08577878103837472,0.0,0.2803537129148054,0.0,1.0,Cognitività e flusso della coscienza
+Esperienze cenestesiche,0.0835214446952596,0.0,0.27698157536399565,0.0,1.0,Esperienze corporee
+Disturbo del linguaggio espressivo,0.08126410835214447,0.0,0.27354920516339776,0.0,1.0,Cognitività e flusso della coscienza
+Spazializzazione delle esperienze corporee,0.07674943566591422,0.0,0.26649441678869196,0.0,1.0,Esperienze corporee
+Ansia,0.0744920993227991,0.0,0.26286689818072856,0.0,1.0,Consapevolezza del Sé e Presenza
+Blocco del pensiero,0.06320541760722348,0.0,0.24360716981085104,0.0,1.0,Cognitività e flusso della coscienza
+Ambivalenza,0.05417607223476298,0.0,0.2266207301942356,0.0,1.0,Cognitività e flusso della coscienza
+Sentimento di centralità,0.045146726862302484,0.0,0.20786060343104784,0.0,1.0,Riorientamento Esistenziale
+Disturbi dell'attenzione,0.04288939051918736,0.0,0.20283679093291365,0.0,1.0,Cognitività e flusso della coscienza
+Disturbo della memoria a breve termine,0.03160270880361174,0.0,0.17513770972640755,0.0,1.0,Cognitività e flusso della coscienza
+Ansia ontologica,0.029345372460496615,0.0,0.1689635035025841,0.0,1.0,Consapevolezza del Sé e Presenza
+Contatto corporeo vissuto come minaccia,0.029345372460496615,0.0,0.16896350350258407,0.0,1.0,Demarcazione/Transitivismo
+Disturbo dell'iniziativa del pensiero,0.024830699774266364,0.0,0.1557848491875479,0.0,1.0,Cognitività e flusso della coscienza
+Diminuita trasparenza della coscienza,0.024830699774266364,0.0,0.15578484918754787,0.0,1.0,Consapevolezza del Sé e Presenza
+Diminuito senso del Sé di base,0.022573363431151242,0.0,0.14870684183738814,0.0,1.0,Consapevolezza del Sé e Presenza
+Il mondo come apparente o illusorio,0.01805869074492099,0.0,0.13331426547891423,0.0,1.0,Riorientamento Esistenziale
+Iperriflessività,0.01805869074492099,0.0,0.13331426547891423,0.0,1.0,Consapevolezza del Sé e Presenza
+Diminuita vitalità,0.01580135440180587,0.0,0.12484733228328089,0.0,1.0,Consapevolezza del Sé e Presenza
+Altri fenomeni di transitivismo,0.013544018058690745,0.0,0.11571864665957537,0.0,1.0,Demarcazione/Transitivismo
+Interferenza del pensiero,0.011286681715575621,0.0,0.10575698463741087,0.0,1.0,Cognitività e flusso della coscienza
+Confusione con la propria immagine riflessa,0.011286681715575621,0.0,0.10575698463741087,0.0,1.0,Demarcazione/Transitivismo
+Perdita del senso comune,0.009029345372460496,0.0,0.0946998427816734,0.0,1.0,Consapevolezza del Sé e Presenza
+Confusione con l'altro,0.006772009029345372,0.0,0.08210582472974712,0.0,1.0,Demarcazione/Transitivismo
+Disturbo dell'esperienza del tempo,0.006772009029345372,0.0,0.08210582472974712,0.0,1.0,Cognitività e flusso della coscienza
+Sentimento di straordinario potere creativo/insight,0.004514672686230248,0.0,0.06711526275470016,0.0,1.0,Riorientamento Esistenziale
+Ipoedonia,0.002257336343115124,0.0,0.04751143381455799,0.0,1.0,Consapevolezza del Sé e Presenza
+Oggettivazione percettiva del linguaggio interiore,0.002257336343115124,0.0,0.04751143381455799,0.0,1.0,Cognitività e flusso della coscienza
+Fenomeni legati allo specchio,0.0,0.0,0.0,0.0,0.0,Esperienze corporee
+Diminuzione dell'iniziativa,0.0,0.0,0.0,0.0,0.0,Consapevolezza del Sé e Presenza
+Diminuita presenza,0.0,0.0,0.0,0.0,0.0,Consapevolezza del Sé e Presenza
+Cambiamento esistenziale o intellettuale,0.0,0.0,0.0,0.0,0.0,Riorientamento Esistenziale
+Grandiosità solipsistica,0.0,0.0,0.0,0.0,0.0,Riorientamento Esistenziale

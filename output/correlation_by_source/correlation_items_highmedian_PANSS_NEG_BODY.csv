@@ -1,0 +1,15 @@
+Variable,r,p_value,N,Significant
+Pensieri generati da altri,-0.857,0.0032,9,True
+Parole lette da qualcun altro,-0.956,0.0001,9,True
+Pensieri come scritti,-0.956,0.0001,9,True
+Pensieri ripetuti o echeggianti,-0.708,0.0329,9,True
+Perdita di contatto con se stessi,-0.466,0.2058,9,False
+Non essere più la stessa persona,-0.504,0.1661,9,False
+Vuoto interiore,-0.546,0.128,9,False
+Pensare a se stessi come un'altra persona,-0.606,0.0836,9,False
+Disconnessione da sé e dai propri pensieri,0.495,0.1756,9,False
+Sensazione di non essere l'autore delle proprie azioni,-0.575,0.1053,9,False
+Dubbio tra dire e pensare,-0.824,0.0063,9,True
+Guardarsi dall'esterno,-0.61,0.0808,9,False
+Guardarsi da fuori dal corpo,-0.373,0.3228,9,False
+Perdita di controllo del corpo,-0.354,0.3502,9,False
